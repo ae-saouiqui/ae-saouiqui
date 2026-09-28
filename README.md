@@ -153,4 +153,4 @@ I am deeply interested in understanding how modern AI systems work under the hoo
 </p>
 
 ---
-<img src="https://github.com/ae-saouiqui/ae-saouiqui/blob/output/github-snake.svg"/>
+<img src="https://github.com/ae-saouiqui/ae-saouiqui/blob/output/github-snake-dark.svg"/>
