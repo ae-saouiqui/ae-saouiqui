@@ -151,3 +151,6 @@ I am deeply interested in understanding how modern AI systems work under the hoo
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="30"/>
   </a>
 </p>
+
+---
+<img src="https://github.com/ae-saouiqui/ae-saouiqui/blob/output/github-snake.svg"/>
