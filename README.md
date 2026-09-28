@@ -1,4 +1,4 @@
-# Hi, I'm Amine Es-saouiqui 👋
+# Hi, I'm Amine Es-saouiqui
 
 ### Machine Learning Engineer | AI & GenAI Specialist | MLOps Enthusiast
 
